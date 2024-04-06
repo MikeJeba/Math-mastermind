@@ -126,7 +126,6 @@ public class Game extends AppCompatActivity {
 
             @Override
             public void onFinish() {
-
                 timer_running = false;
                 pauseTimer();
                 resetTimer();
