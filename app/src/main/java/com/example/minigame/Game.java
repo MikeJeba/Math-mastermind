@@ -150,7 +150,6 @@ public class Game extends AppCompatActivity {
     }
     public void pauseTimer()
     {
-
         timer.cancel();
         timer_running = false;
 
